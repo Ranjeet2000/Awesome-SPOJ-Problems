@@ -51,3 +51,4 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 ## Miscellaneous
 
 * [IITKWPCH](www.spoj.com/problems/IITKWPCH/)
+ok
